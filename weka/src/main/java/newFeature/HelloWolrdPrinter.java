@@ -3,7 +3,7 @@ package newFeature;
 public class HelloWolrdPrinter {
 	
 	public String getText() {
-		return "Hello";
+		return "Hello world";
 	}
 
 }
